@@ -9,7 +9,7 @@
           <el-input
             placeholder="请输入内容"
             v-model="input"
-            maxlength="300"
+            maxlength="3000"
             show-word-limit
             style="width: 90%;"
           ></el-input>
